@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:orientation="vertical" android:id="@+id/RelativeLayout01_widget">
+    <ImageView android:id="@+id/imageView1" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/gray"></ImageView>
+    <LinearLayout android:id="@+id/linearLayout1" android:orientation="vertical" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:layout_width="wrap_content" android:textSize="27sp" android:text="--%" android:layout_height="wrap_content" android:id="@+id/TextView01" android:layout_marginBottom="0px" android:layout_marginTop="0px"></TextView>
+        <TextView android:layout_width="wrap_content" android:textSize="27sp" android:text="--℃" android:layout_height="wrap_content" android:id="@+id/textView02" android:layout_marginTop="0px" android:layout_marginBottom="0px"></TextView>
+    </LinearLayout>
+</RelativeLayout>

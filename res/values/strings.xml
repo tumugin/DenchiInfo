@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Denchi Info</string>
+    <string name="zanriyou">Remaining amount:</string>
+    <string name="helth">Health status:</string>
+    <string name="denatu">Voltage:</string>
+    <string name="shurui">Battery type:</string>
+    <string name="naibuondo">Internal temperature:</string>
+    <string name="status">Status:</string>
+    <string name="plugshubetu">Plug type:</string>
+    <string name="temp">Settings</string>
+    <string name="tani">Unit settings</string>
+    <string name="tani_setting">Celsius</string>
+    <string name="tani_setumei">Celsius (℃), Fahrenheit (F)</string>
+</resources>

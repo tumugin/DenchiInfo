@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging">Charging</string>
+    <string name="discharging">Discharging</string>
+    <string name="full">Fully charged</string>
+    <string name="not_charging">Discharging</string>
+    <string name="unknown">Unknown</string>
+    <string name="plugged_ac">AC Adapter</string>
+    <string name="usb">USB</string>
+    <string name="health_unknown">Unknown</string>
+    <string name="health_good">Good</string>
+    <string name="health_overheat">Over heat</string>
+    <string name="health_dead">Dead</string>
+    <string name="health_over_voltage">Over voltage</string>
+    <string name="health_unspecified_failure">Acquisition failure</string>
+    <string name="noplug">No plug</string>
+</resources>

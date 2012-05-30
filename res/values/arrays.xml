@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_entries">
+        <item>Celsius(℃)</item>
+        <item>Fahrenheit(F)</item>
+    </string-array>
+    <string-array name="list_entryvalues">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>

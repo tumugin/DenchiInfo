@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging">充電中</string>
+    <string name="discharging">放電中</string>
+    <string name="full">充電完了</string>
+    <string name="not_charging">放電中</string>
+    <string name="unknown">不明</string>
+    <string name="plugged_ac">ACアダプター</string>
+    <string name="usb">USB</string>
+    <string name="health_unknown">不明</string>
+    <string name="health_good">良好</string>
+    <string name="health_overheat">オーバーヒート</string>
+    <string name="health_dead">不調</string>
+    <string name="health_over_voltage">オーバーボルテージ</string>
+    <string name="health_unspecified_failure">取得失敗</string>
+    <string name="noplug">プラグ無し</string>
+</resources>

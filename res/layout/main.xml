@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView android:text="@string/zanriyou" android:id="@+id/TextView01_main" android:textSize="23sp" android:layout_height="wrap_content" android:layout_width="wrap_content"></TextView>
+    <TextView android:text="@string/helth" android:id="@+id/TextView02_main" android:textSize="23sp" android:layout_height="wrap_content" android:layout_width="wrap_content"></TextView>
+    <TextView android:textSize="23sp" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/denatu" android:id="@+id/TextView03_main"></TextView>
+    <TextView android:textSize="23sp" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/TextView04_main" android:text="@string/shurui"></TextView>
+    <TextView android:textSize="23sp" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/TextView05_main" android:text="@string/naibuondo"></TextView>
+    <TextView android:textSize="23sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView06_main" android:text="@string/status"></TextView>
+    <TextView android:textSize="23sp" android:layout_width="wrap_content" android:text="@string/plugshubetu" android:layout_height="wrap_content" android:id="@+id/TextView07_main"></TextView>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">電池Info</string>
+    <string name="zanriyou">残量:</string>
+    <string name="helth">ヘルス状況:</string>
+    <string name="denatu">電圧:</string>
+    <string name="shurui">バッテリー種類:</string>
+    <string name="naibuondo">内部温度:</string>
+    <string name="status">ステータス:</string>
+    <string name="plugshubetu">プラグ種別:</string>
+    <string name="temp">設定</string>
+    <string name="tani">単位の設定</string>
+    <string name="tani_setumei">摂氏(℃),華氏(F) の切り替え</string>
+</resources>

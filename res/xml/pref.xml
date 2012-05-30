@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/temp">
+        <ListPreference android:dialogTitle="@string/tani" android:summary="@string/tani_setumei" android:title="@string/tani" android:entryValues="@array/list_entryvalues" android:entries="@array/list_entries" android:key="@string/tani_setting"></ListPreference>
+    </PreferenceCategory>
+</PreferenceScreen>
